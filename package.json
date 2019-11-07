@@ -1,0 +1,23 @@
+{
+  "name": "psd-to-css-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkWhow/psd-to-css-pipeline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkWhow/psd-to-css-pipeline/issues"
+  },
+  "homepage": "https://github.com/rkWhow/psd-to-css-pipeline#readme",
+  "dependencies": {
+    "adobe-node": "^1.1.0",
+    "tslib": "^1.10.0"
+  }
+}
